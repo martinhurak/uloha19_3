@@ -1,7 +1,7 @@
 {
   "name": "prvyreact",
   "version": "0.1.0",
-  "homepage": "https://github.com/martinhurak/uloha_19_3A",
+  "homepage": "https://martinhurak.github.io/uloha19_3/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
